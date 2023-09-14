@@ -1,0 +1,9 @@
+favLang = {}
+a = ("Enter your favourite language Subham\n")
+b = ("Enter your favourite language Ankit\n")
+c = ("Enter your favourite language sonali\n")
+d = ("Enter your favourite language Harish\n")
+favLang['Subham'] = a
+favLang['Ankit'] = b
+favLang['sonali'] = c
+favLang['Harish'] = d
